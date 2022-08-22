@@ -1,4 +1,4 @@
-# ame520Fall2021
+# ame520Fall2022
 
 Whiteboard: https://docs.google.com/presentation/d/13kKGfmLrPY0pM3Z_UF6ZTWxoB122T6UdAwwrivrZ0uQ/edit#slide=id.p
 
