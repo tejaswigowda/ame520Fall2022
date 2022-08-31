@@ -1,6 +1,6 @@
 # Assignment 1
 
-## Due September 1st before class. 
+## Due September 7th before class. 
 
 ## Task
 
