@@ -5,7 +5,7 @@
 ## Task
 
 Create a private github repository called `AME520Fall2022` and add 
-`tejaswigowda` as
+`tejaswigowda`/`movementundercommons21` as
 a collaborator. The repository should contain a `README.md` that has the
 following information:
 
