@@ -1,11 +1,11 @@
 # Assignment 1
 
-## Due September 1st before class. 
+## Due September 7th before class. 
 
 ## Task
 
 Create a private github repository called `AME520Fall2022` and add 
-`tejaswigowda` as
+`tejaswigowda`/`movementundercommons21` as
 a collaborator. The repository should contain a `README.md` that has the
 following information:
 
@@ -18,11 +18,9 @@ Now for the core of this assignment:
 
 Please watch this video (https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains) and answer the following questions:
 
-1. Why is Baysian inference applicable modeling how the brain performs movement?
-2. What do you think about the evolutionary adaptation of the "best" (optimal) movement we all share?
-3. Please share your thoughts on the concept of "noise" the presenter discussed. How do you think the brain resolves this noise?
-4. Can you think of any modeling framework/technology that could perform better than Baysian modeling?
-5. Do you think lack of movement (think "metaverse") lead us to digest our brains?
+1. Based on DW's talk; discuss how you think learning about movement might help to inform your approach to designing systems?
+2. Since this talk was aired in 2011, beyond Baysian inference, what other techniques have been applied to these issues?
+
 
 Next read this text: https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/Dourish%20excerpt%20chap1'HistoryofInteraction.pdf
 
