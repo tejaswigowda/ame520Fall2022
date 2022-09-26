@@ -1,10 +1,11 @@
-String inData;
+String inData = "";
 
 void setup() {
   // initialize serial:
   Serial.begin(115200);
 
   // reserve 200 bytes for the inputString:
+  inData = "";
 }
 
 void loop() {

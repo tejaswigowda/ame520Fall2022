@@ -1,4 +1,6 @@
 #include "config.h"
+#define LILYGO_WATCH_2019_WITH_TOUCH 
+#include <LilyGoWatch.h>
 
 TTGOClass *watch;
 TFT_eSPI *tft;
