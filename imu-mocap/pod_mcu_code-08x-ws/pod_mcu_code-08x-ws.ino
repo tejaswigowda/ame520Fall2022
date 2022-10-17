@@ -23,9 +23,9 @@ TFT_eSPI *tft;
 #include "SparkFun_BNO080_Arduino_Library.h" // Click here to get the library: http://librarymanager/All#SparkFun_BNO080
 BNO080 myIMU;
 
-const char* ssid = "AMEIoT";
-const char* password = "ameclass";
-String serverIP = "192.168.2.6";
+const char* ssid = "NETGEAR31";
+const char* password = "fluffywind2904";
+String serverIP = "192.168.0.175";
 
 String mac_address;
 
@@ -117,7 +117,7 @@ void setup() {
   // Start i2c and BNO080
   Wire.flush();   // Reset I2C
   myIMU.begin(BNO080_DEFAULT_ADDRESS, Wire);
-  Wire.begin(22, 21);
+  Wire.begin(21, 22);
 
    if (myIMU.begin() == false)
   {
