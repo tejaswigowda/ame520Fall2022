@@ -1,6 +1,6 @@
 # Assignment 3 -- OptiTrack MOCAP assignment
 
-## Due September 24th before class. 
+## Due October 24th before class. 
 
 ## Task
 
