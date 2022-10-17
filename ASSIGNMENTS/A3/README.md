@@ -6,7 +6,7 @@
 
 - Please email Tejaswi Gowda (tejaswi@asu.edu) your ASU ID. We will get you access to the MOCAP space.
 
-- Email Peter Weisman <peter.weisman@asu.edu> to schedule the space on the shared calender.
+- Email Peter Weisman <peter.weisman@asu.edu> to schedule the space on the shared calender. See calender: https://calendar.google.com/calendar/embed?src=c_dd6njs6ejsdgeid72tgjhj5fh8%40group.calendar.google.com&ctz=America%2FPhoenix
 
 - For your first exercise with optitrack; create a mocap recording, 1-2 minutes long, in a bvh file (https://research.cs.wisc.edu/graphics/Courses/cs-838-1999/Jeff/BVH.html) as a deliverable for this assignment. We will be learning how to integrate bvh into 3D environments in the next couple of classes.
 
