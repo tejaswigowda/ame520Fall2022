@@ -22,10 +22,12 @@ Reflect upon feedback you may receive in class.
 - What are your plans for your future research?
 
 ## GitHub Repo
-Basic github: http://tejaswigowda.com/github-basics/ 
-For big files use: https://git-lfs.github.com/ 
-For GH markdown reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+
+- Basic github: http://tejaswigowda.com/github-basics/ 
+- For big files use: https://git-lfs.github.com/ 
+- For GH markdown reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 
 ## Examples:
-https://github.com/jjliska/capstone/
-https://github.com/googlecreativelab/open-nsynth-super 
+
+- https://github.com/jjliska/capstone/
+- https://github.com/googlecreativelab/open-nsynth-super 
